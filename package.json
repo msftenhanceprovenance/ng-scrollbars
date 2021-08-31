@@ -7,6 +7,10 @@
     "malihu-custom-scrollbar-plugin": ">=3.0.7",
     "angular": "^1.2.21"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minhongrails/ng-scrollbars.git"
+  },
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-minify-css": "^0.3.11",
